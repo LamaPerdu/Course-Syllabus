@@ -1,4 +1,3 @@
-# Course-Syllabus
 # 数据科学与大数据技术专业第二学位本科人才培养方案  
 # Second Bachelor’s Degree Program in Data Science and Big Data Technology
 
